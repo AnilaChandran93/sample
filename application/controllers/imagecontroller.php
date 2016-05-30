@@ -5,5 +5,6 @@
  * and open the template in the editor.
  */
 echo "this controller is for image";
+echo "added one more line";
 ?>
 
